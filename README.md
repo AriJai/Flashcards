@@ -1,3 +1,5 @@
+This is my Challenge Project: Flashcards, from Codecademy's Front-End Engineer course. This project was designed to practice using Redux and Redux Toolkit by implementing Redux logic, and properly capturing state to be used in appropriate components. The design of this project is to be able to generate flashcards for quizzes, and to be able to organize our data within a created topics section.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
